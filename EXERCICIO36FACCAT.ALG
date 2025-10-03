@@ -49,7 +49,7 @@ Inicio
    fimse
    
    soma <- hVelho + mNovo
-   produto <- hNovo + mVelho
+   produto <- hNovo * mVelho
    Escreval("A soma do homem mais velho com a mulher mais nova é: ", soma)
    Escreval("A multiplicação do homem mais novo com a mulher mais velha é: ", produto)
    Escreval("")
